@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\GeekBrains\\HW\\C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "i:\\GeekBrains\\HW\\C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "I:\\GeekBrains\\HW\\C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "i:\\GeekBrains\\HW\\C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\GeekBrains\\HW\\C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "i:\\GeekBrains\\HW\\C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "I:\\GeekBrains\\HW\\C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "i:\\GeekBrains\\HW\\C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\КТА\\.nuget\\packages\\",
-        "outputPath": "I:\\GeekBrains\\HW\\C#\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "i:\\GeekBrains\\HW\\C#\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\КТА\\AppData\\Roaming\\NuGet\\NuGet.Config"
